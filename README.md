@@ -1,4 +1,4 @@
-<h1> WEBSITE PROJECT</h1>
+i<h1> WEBSITE PROJECT</h1>
 
 <h2>	E-LEARNING WEBSITE FOR LIMKOKWING UNIVERSITY </h2>
 
@@ -81,7 +81,8 @@ It’s an E-learning platform for students and Lectures
 
   <br/>
 
-![image](https://github.com/user-attachments/assets/9439578f-f723-425b-bbfd-72f258a3e637)
+![image](https://github.com/user-attachments/assets/9b6b0e6e-4f2f-4991-aff0-dfa8233cb95b)
+
 
 
 <br />
@@ -104,7 +105,7 @@ Contains all Important facts about our University within Eswatini and Globally
 
 <br />
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1188572f-e9ae-4f9a-bc5e-501355d7053f)
 
 <br/>  <br />
 
@@ -115,6 +116,10 @@ Feedback:
 
 Students will be able to give feedback back to   Lectures.
 <br />
+
+
+![image](https://github.com/user-attachments/assets/c7d9caba-41ef-455f-9621-70ade2834123)
+
 
 <br/><br />
 
