@@ -64,7 +64,8 @@ Explores the Limkokwing University as a whole what it’s about and what it stan
   <br/>
 
 
-![image](https://github.com/user-attachments/assets/75bcaa7c-e9d6-40a6-b109-993c8976a70e)
+![image](https://github.com/user-attachments/assets/9441cc9e-ef00-4211-89be-dbd1422d9e27)
+
 
 
 
@@ -95,14 +96,18 @@ Contains all Important facts about our University within Eswatini and Globally
 
  <br/>
 
+![image](https://github.com/user-attachments/assets/71de0e85-ba4e-4d3c-aae8-856bcdaa0994)
 
- Location:
 
-where we are located how to contact us 
+<br/>  <br />
+ Courses:
 
 <br />
 
+![Uploading image.png…]()
+
 <br/>  <br />
+
 
 <br/>
 
