@@ -1,32 +1,31 @@
-<h1>C++ project</h1>
+<h1> WEBSITE PROJECT</h1>
 
-<h2>Saphumula Savings and Credit Cooperatives (SSCCO) C++ Loan System </h2>
+<h2>	E-LEARNING WEBSITE FOR LIMKOKWING UNIVERSITY </h2>
 
 <h2>Description</h2>
 
-This project consist of C++ contexts such as structures, functions, switch-case menu to create a solution for managing customer registration and loan applications, savings details. The system allow customers to;
-
-•	login with his/her with account 
-
-•	Apply for a loan
-
-•	Check information
-
-•	Check interest rates
+This project consist of HTML, CSS AND JAVASCRIPT contexts for students to login or register for online learning ant the website will show all the courses offered by the Limkokwing University of Creative technology and allow professors or rather lecturers to conduct online classes through zoom and easily upload information to share with the students.The website will have a chat system or feedback forum where users are able to add suggestions on the improvements.
 
 <br />
 
 <h2>Languages used</h2>
 
-- <b>C++</b> 
+- <b>HTML</b> 
 
-- <b>Dev++</b>
+- <b>CSS</b>
+
+- <b>JAVASCRIPT</b>
+
 <h2>How does the System works</h2>
 
 
 <p align=”center”>
 
-The system will display a menu : 
+ Home page:
+
+This is the main page of our website, after logging in in our customers will be sent to this page which contains all our main menus and the services provided by our website
+
+
 
 
 ![image](https://github.com/user-attachments/assets/ec1ef86f-d6b8-4b25-9bc1-bca0b97c5cb1)
@@ -38,9 +37,7 @@ The system will display a menu :
 
 <br />
 
-Login:
-
-The user is supposed to log in with his/her password. If account is not found the system will show up an option of creating a new account. Only username and password will be needed to create the account. No option will work if the user didn’t login.
+REGISTATION PAGE:
 
  <br/>
 
@@ -58,10 +55,7 @@ The user is supposed to log in with his/her password. If account is not found th
 
 <br />
 
-Apply for a Loan:
-
-The will user will be asked to fill in the application form. If fill in meets the requirements, the system will display a successful message to show that application in taken. If requirements are not meat the system will display an error message and allows the user to fill in again
-
+LOGIN PAGE
  <br/>
 
 ![image](https://github.com/user-attachments/assets/dfa2d8ed-69d2-4e6b-a167-92643425c494)
@@ -73,9 +67,11 @@ The will user will be asked to fill in the application form. If fill in meets th
 
 <br />
 
-About Clients:
+Gallery:
 
-Information of the customer will be display here
+Explores the Limkokwing University as a whole what it’s about and what it stands for.
+
+
 
   <br/>
 
@@ -86,9 +82,11 @@ Information of the customer will be display here
 
 <br />
 
-Check Interest Rates:
+Live stream
 
-The user be asked to enter any amount then the system will calculate the interest and display it together with the total payable amount.
+It’s an E-learning platform for students and Lectures
+
+
 
   <br/>
 
@@ -97,10 +95,33 @@ The user be asked to enter any amount then the system will calculate the interes
 
 <br />
 
-<br />
+<br/>
 
-EXIT:
+About us
 
-This option will end the program.
+Contains all Important facts about our University within Eswatini and Globally
+
+
 
  <br/>
+
+
+ Location:
+
+where we are located how to contact us 
+
+<br />
+
+<br/>  <br />
+
+<br/>
+
+Feedback:
+
+Students will be able to give feedback back to   Lectures.
+<br />
+
+<br/><br />
+
+<br/>
+
